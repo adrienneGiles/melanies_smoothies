@@ -1,1 +1,3 @@
-don't know what this is
+#requirement.txt
+snowflake-snowpark-python
+streamlit
